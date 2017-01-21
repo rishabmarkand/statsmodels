@@ -2,6 +2,7 @@
 """
 Created on Fri Dec 19 11:29:18 2014
 
+editing copy
 Author: Josef Perktold
 License: BSD-3
 
